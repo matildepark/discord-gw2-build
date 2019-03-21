@@ -1,0 +1,19 @@
+{
+  "name": "discord-gw2-build",
+  "version": "1.0.0",
+  "description": "Checks and prints your builds.",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "discord.js": "^11.4.2",
+    "dotenv": "^7.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.15.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Matilde Park",
+  "license": "ISC"
+}
