@@ -4,7 +4,7 @@
   "description": "Checks and prints your builds.",
   "main": "index.js",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "discord.js": "^11.4.2",
     "dotenv": "^7.0.0"
   },
